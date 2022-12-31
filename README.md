@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Emil
 #### I'm beginner web developer
-![I'm beginner web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm beginner web developer](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 My name is Emil and I'm a beginner Web Developer. I'm from Russia and currently study :)
 
