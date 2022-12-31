@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<img src="https://www.flaticon.com/free-icon/telegram_2111646?term=logos&page=1&position=44&origin=tag&related_id=2111646">
+<img src="https://www.flaticon.com/free-icon/whatsapp_3536445?term=logos&page=1&position=65&origin=tag&related_id=3536445">
