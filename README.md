@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Emil
 #### I'm beginner web developer
-![I'm beginner web developer](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![I'm beginner web developer](https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif)
 
 My name is Emil and I'm a beginner Web Developer. I'm from Russia and currently study :)
 
