@@ -17,10 +17,4 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<ul class="social-icons">
-  <li><a class="social-icon-twitter" href="#" title="..." target="_blank" rel="noopener"></a></li>
-  <li><a class="social-icon-fb" href="#" title="..." target="_blank" rel="noopener"></a></li>
-  <li><a class="social-icon-vk" href="#" title="..." target="_blank" rel="noopener"></a></li>
-  <li><a class="social-icon-telegram" href="#" title="..." target="_blank" rel="noopener"></a></li>
-  <li><a class="social-icon-youtube" href="#" title="..." target="_blank" rel="noopener"></a></li>
-</ul>
+<img src="https://www.flaticon.com/free-icon/telegram_2111646?term=logos&page=1&position=44&origin=tag&related_id=2111646">
