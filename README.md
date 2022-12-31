@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Emil
 ![I'm beginner web developer](https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif)
+<iframe src="https://giphy.com/embed/1sgetPM00wWqJpVUTl" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/purwadhikaschool-coding-programming-purwadhika-1sgetPM00wWqJpVUTl">via GIPHY</a></p>
 
 My name is Emil Burganov and I'm a beginner Web Developer. I'm from Russia and currently study :)
 
