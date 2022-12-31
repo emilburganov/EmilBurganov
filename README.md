@@ -2,7 +2,7 @@
 #### I'm beginner web developer
 ![I'm beginner web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-My name is Emil and I'm a beginner Web Developer. I'm from Russia and currently student :)
+My name is Emil and I'm a beginner Web Developer. I'm from Russia and currently study :)
 
 Skills: HTML / CSS / JS / PHP
 
