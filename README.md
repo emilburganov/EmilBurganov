@@ -1,4 +1,3 @@
-PAT_1 = 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
 ### Hi there 👋, my name is Emil
 ![I'm beginner web developer](https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif)
 
