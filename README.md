@@ -10,3 +10,5 @@ Skills: HTML / CSS / JS / PHP
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=emilburganov)  
 
 ![Profile views](https://gpvc.arturio.dev/emilburganov)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilburganov)](https://github.com/anuraghazra/github-readme-stats)
