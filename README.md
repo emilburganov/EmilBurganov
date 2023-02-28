@@ -3,7 +3,7 @@
 
 My name is Emil Burganov and I'm a beginner Web Developer. I'm from Russia and currently study :)
 
-Skills: HTML / CSS / JS / PHP
+Skills: HTML / CSS / JS / PHP / Laravel
 
 - 🌱 I’m currently learning JavaScript 
 
