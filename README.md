@@ -7,7 +7,7 @@ Skills: HTML / CSS / JS / PHP / Laravel
 
 - 🌱 I’m currently learning JavaScript 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilburganov&hide_progress=true)](https://github.com/emilburganov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilburganov)](https://github.com/emilburganov/github-readme-stats)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=emilburganov)  
 
 ![Profile views](https://gpvc.arturio.dev/emilburganov)  
