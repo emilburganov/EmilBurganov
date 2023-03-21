@@ -7,4 +7,4 @@ Skills: HTML / CSS / JS / PHP / Laravel
 
 - 🌱 I’m currently learning Laravel 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilburganov&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilburganov)]
