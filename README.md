@@ -6,3 +6,5 @@ My name is Emil Burganov and I'm a beginner Web Developer. I'm from Russia and c
 Skills: HTML / CSS / JS / PHP / Laravel
 
 - 🌱 I’m currently learning Laravel 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilburganov&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
