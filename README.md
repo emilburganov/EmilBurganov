@@ -6,7 +6,7 @@ I'm a beginner Web Developer. I'm from Russia and currently study :)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilburganov)
 
-## Languages and Tools:
+## Languages and tools:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
