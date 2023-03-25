@@ -10,14 +10,13 @@ Skills: HTML / CSS / JS / PHP / Laravel
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-
-![PHP](https://img.shields.io/badge/-php-090909?style=for-the-badge&logo=php)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)
 ![Laravel](https://img.shields.io/badge/-laravel-090909?style=for-the-badge&logo=laravel)
 
-![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma)
