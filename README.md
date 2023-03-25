@@ -8,8 +8,8 @@ Skills: HTML / CSS / JS / PHP / Laravel
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilburganov)
 
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html)
-![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css)
+![HTML]([https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white))
+![CSS]([https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white))
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 
@@ -22,6 +22,3 @@ Skills: HTML / CSS / JS / PHP / Laravel
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=avavion)  
-
-![Profile views](https://gpvc.arturio.dev/avavion)
