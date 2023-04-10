@@ -40,15 +40,15 @@
 </p>
 
 <div style="display: flex;">
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilburganov&show_icons=true&locale=en&layout=compact" alt="emilburganov" />
-</div>
+  <div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilburganov&show_icons=true&locale=en&layout=compact" alt="emilburganov" />
+  </div>
 
-<div>
-  <img align="center" style="margin: 20px;"src="https://github-readme-stats.vercel.app/api?username=emilburganov&show_icons=true&locale=en" alt="emilburganov" />
-</div>
+  <div>
+    <img align="center" style="margin: 20px;"src="https://github-readme-stats.vercel.app/api?username=emilburganov&show_icons=true&locale=en" alt="emilburganov" />
+  </div>
 
-<div>
-  <img align="center" style="margin: 20px;"src="https://github-readme-streak-stats.herokuapp.com/?user=emilburganov&" alt="emilburganov" />
+  <div>
+    <img align="center" style="margin: 20px;"src="https://github-readme-streak-stats.herokuapp.com/?user=emilburganov&" alt="emilburganov" />
+  </div>
 </div>
- </div>
