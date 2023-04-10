@@ -2,6 +2,6 @@
 
 I'm a beginner Web Developer. I'm from Russia and currently study :)
 
-- 🌱 I’m currently learning Laravel 
+- 🌱 I’m currently learning Vue.js 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilburganov)
