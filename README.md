@@ -41,12 +41,8 @@
 
 <table>
   <tr>
-    <td valign="top"> <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilburganov&show_icons=true&locale=en&layout=compact" alt="emilburganov" />
-  </div></td>
-    <td valign="top"><div>
-    <img align="center" style="margin: 20px;"src="https://github-readme-stats.vercel.app/api?username=emilburganov&show_icons=true&locale=en" alt="emilburganov" />
-  </div></td>
+    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilburganov&show_icons=true&locale=en&layout=compact" alt="emilburganov" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=emilburganov&show_icons=true&locale=en" alt="emilburganov" /></td>
   </tr>
 </table>
 
