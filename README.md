@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emil Burganov</h1>
 <h3 align="center">Beginner web developer from Russia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emilburganov&label=Profile%20views&color=0e75b6&style=flat" alt="emilburganov" /> </p>
-
 - 🌱 I’m currently learning **Vue.js**
 
 - 📫 How to reach me **emil.burganov03@gmail.com**
