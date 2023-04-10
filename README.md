@@ -39,14 +39,20 @@
   </a> 
 </p>
 
-<div style="display: flex;">
-  <div>
+<table>
+  <tr>
+    <td valign="top"> <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilburganov&show_icons=true&locale=en&layout=compact" alt="emilburganov" />
-  </div>
-
-  <div>
+  </div></td>
+    <td valign="top"><div>
     <img align="center" style="margin: 20px;"src="https://github-readme-stats.vercel.app/api?username=emilburganov&show_icons=true&locale=en" alt="emilburganov" />
-  </div>
+  </div></td>
+  </tr>
+</table>
+
+ 
+
+  
 
   <div>
     <img align="center" style="margin: 20px;"src="https://github-readme-streak-stats.herokuapp.com/?user=emilburganov&" alt="emilburganov" />
