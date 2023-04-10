@@ -49,8 +49,7 @@
  
 
   
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilburganov&" alt="emilburganov" /></p>
   <div>
     <img align="center" style="margin: 20px;"src="https://github-readme-streak-stats.herokuapp.com/?user=emilburganov&" alt="emilburganov" />
   </div>
-</div>
