@@ -43,11 +43,3 @@
     <td valign="top"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=emilburganov&show_icons=true&locale=en" alt="emilburganov" /></td>
   </tr>
 </table>
-
- 
-
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emilburganov&show_icons=true&locale=en" alt="emilburganov" /></p>
-  <div>
-    <img align="center" style="margin: 20px;"src="https://github-readme-streak-stats.herokuapp.com/?user=emilburganov&" alt="emilburganov" />
-  </div>
