@@ -39,9 +39,11 @@
   </a> 
 </p>
 
-<div style="margin-bottom: 20px;">
+<div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilburganov&show_icons=true&locale=en&layout=compact" alt="emilburganov" />
 </div>
+
+
 
 <div>
   <img align="center" style="margin: 20px;"src="https://github-readme-stats.vercel.app/api?username=emilburganov&show_icons=true&locale=en" alt="emilburganov" />
