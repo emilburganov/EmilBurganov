@@ -39,10 +39,10 @@
   </a> 
 </p>
 
-<table>
+<table cellpadding="0">
   <tr>
-    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilburganov&show_icons=true&locale=en&layout=compact" alt="emilburganov" /></td>
-    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=emilburganov&show_icons=true&locale=en" alt="emilburganov" /></td>
+    <td valign="top"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilburganov&show_icons=true&locale=en&layout=compact" alt="emilburganov" /></td>
+    <td valign="top"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=emilburganov&show_icons=true&locale=en" alt="emilburganov" /></td>
   </tr>
 </table>
 
