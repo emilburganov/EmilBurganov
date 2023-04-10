@@ -40,7 +40,7 @@
 </p>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilburganov&show_icons=true&locale=en&layout=compact" alt="emilburganov" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilburganov&show_icons=true&locale=en&layout=compact" alt="emilburganov" />
 </div>
 
 <div>
