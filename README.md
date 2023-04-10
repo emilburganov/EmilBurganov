@@ -7,11 +7,11 @@
 
 Я начинающий веб-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
-- :telescope: Изучаю веб-разработку на курсах Яндекс Практикум!
+- :telescope: Изучаю веб-разработку самостоятельно и в техникуме!
 
 - :seedling: На данный момент изучаю VueJS.
 
-- :zap: Хочу освоить новую професcию и найти работу.
+- :zap: Хочу набраться нужных навыков и найти работу.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-emilburganov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/emil_burganov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:emil.burganov03@gmail.com)
 
