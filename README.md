@@ -7,7 +7,7 @@
 
 Я начинающий веб-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
-- :telescope: Изучаю веб-разработку самостоятельно и в техникуме!
+- :telescope: Изучаю веб-разработку самостоятельно и в техникуме
 
 - :seedling: На данный момент изучаю VueJS
 
