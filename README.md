@@ -57,7 +57,7 @@
   <img height="125" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emilburganov&layout=compact&theme=vision-friendly-dark">
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shariar-hasan&show_icons=true&locale=en" alt="shariar-hasan">
+  <img height="125" align="center" src="https://github-readme-stats.vercel.app/api?username=shariar-hasan&show_icons=true&locale=en" alt="shariar-hasan">
 </p>
 <p>
   &nbsp;
