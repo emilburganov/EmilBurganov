@@ -60,5 +60,6 @@
   <img width="30%" align="center" src="https://github-readme-stats.vercel.app/api?username=shariar-hasan&show_icons=true&locale=en" alt="shariar-hasan">
 </p>
 <p>
+  &nbsp
    <img width="30%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=emilburganov&theme=dark&background=000000" alt="webDev's Github stats">
 </p>
