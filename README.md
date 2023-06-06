@@ -42,7 +42,7 @@
 
 ### ⚙️ GitHub статистика:
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <img height="200px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emilburganov&layout=compact&theme=vision-friendly-dark" />
@@ -51,7 +51,7 @@
       <img height="200px" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=emilburganov&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <p>
   <img height="200px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emilburganov&layout=compact&theme=vision-friendly-dark">
@@ -59,5 +59,5 @@
 
 <p>
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shariar-hasan&show_icons=true&locale=en" alt="shariar-hasan">
+   <img height="200px" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=emilburganov&theme=dark&background=000000" alt="webDev's Github stats">
 </p>
