@@ -52,3 +52,12 @@
     </td>
   </tr>
 </table>
+
+<p>
+  <img height="200px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emilburganov&layout=compact&theme=vision-friendly-dark">
+</p>
+
+<p>
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shariar-hasan&show_icons=true&locale=en" alt="shariar-hasan">
+</p>
