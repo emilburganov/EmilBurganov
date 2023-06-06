@@ -54,11 +54,11 @@
 </table> -->
 
 <p>
-  <img width="33%" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emilburganov&layout=compact&theme=vision-friendly-dark">
+  <img width="30%" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emilburganov&layout=compact&theme=vision-friendly-dark">
 </p>
 <p>
-  <img width="33%" align="center" src="https://github-readme-stats.vercel.app/api?username=shariar-hasan&show_icons=true&locale=en" alt="shariar-hasan">
+  <img width="30%" align="center" src="https://github-readme-stats.vercel.app/api?username=shariar-hasan&show_icons=true&locale=en" alt="shariar-hasan">
 </p>
 <p>
-   <img width="33%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=emilburganov&theme=dark&background=000000" alt="webDev's Github stats">
+   <img width="30%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=emilburganov&theme=dark&background=000000" alt="webDev's Github stats">
 </p>
