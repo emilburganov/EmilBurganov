@@ -54,7 +54,7 @@
 </table> -->
 
 <p>
-  <img style="margin-bottom: 20px;" height="200" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emilburganov&layout=compact&theme=vision-friendly-dark">
+  <img height="200" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emilburganov&layout=compact&theme=vision-friendly-dark">
 </p>
 <p>
    &nbsp
