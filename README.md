@@ -42,9 +42,5 @@
 
 ### ⚙️ GitHub статистика:
 
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
-    <img height="200px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emilburganov&layout=compact&theme=vision-friendly-dark" />
-    <img height="200px" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=emilburganov&theme=dark&background=000000" alt="webDev's Github stats" />
-  </div>
-</div>
+<img height="200px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emilburganov&layout=compact&theme=vision-friendly-dark" />
+<img height="200px" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=emilburganov&theme=dark&background=000000" alt="webDev's Github stats" />
