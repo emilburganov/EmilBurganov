@@ -53,12 +53,9 @@
   </tr>
 </table> -->
 
-<center>
-<p>
-  <img height="200" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emilburganov&layout=compact&theme=vision-friendly-dark">
-</p>
-<p>
-   &nbsp
-   <img height="200" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=emilburganov&theme=dark&background=000000" alt="webDev's Github stats">
-</p>
-</center>
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>
