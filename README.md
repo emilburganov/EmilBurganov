@@ -34,9 +34,9 @@ I am a beginner web developer
 ### Backend:
 
 <div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" title="php" alt="php" width="40" height="40"/>&nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg" title="laravel" alt="laravel" width="40" height="40"/>&nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" title="php" alt="php" width="40" height="40"/>&nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" title="laravel" alt="laravel" width="40" height="40"/>&nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -45,8 +45,8 @@ I am a beginner web developer
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" title="figma" alt="figma" width="40" height="40"/> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" title="nodejs" alt="nodejs" width="40" height="40"/>  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="figma" alt="figma" width="40" height="40"/> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="nodejs" alt="nodejs" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>
 </div>
 
