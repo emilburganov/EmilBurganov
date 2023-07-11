@@ -27,6 +27,8 @@ I am a beginner web developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp
 </div>
 
+---
+
 ### Backend:
 
 <div>
