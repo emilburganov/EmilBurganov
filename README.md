@@ -24,7 +24,7 @@ I am a beginner web developer
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Light.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp
 </div>
@@ -34,7 +34,7 @@ I am a beginner web developer
 ### Backend:
 
 <div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" title="php" alt="php" width="40" height="40"/>&nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" title="php" alt="php" width="40" height="40"/>&nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" title="laravel" alt="laravel" width="40" height="40"/>&nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
 </div>
