@@ -18,7 +18,7 @@ I am a beginner web developer
 
 ---
 
-### 💻 Frontend:
+### Frontend:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -27,7 +27,7 @@ I am a beginner web developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp
 </div>
 
-### 💻 Backend:
+### Backend:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" alt="php" width="40" height="40"/>&nbsp
@@ -37,7 +37,7 @@ I am a beginner web developer
 
 ---
 
-### 🛠 Tools:
+### Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -46,7 +46,7 @@ I am a beginner web developer
 
 ---
 
-### ⚙️ GitHub Stats:
+### GitHub Stats:
 <div>
   <img height="200px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emilburganov&layout=compact&theme=vision-friendly-dark" />
   <img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=emilburganov&theme=dark&background=000000" alt="webDev's Github stats" />
