@@ -12,7 +12,7 @@ I am a beginner web developer
 
 - :seedling: I am currently learning VueJS.
 
-- :zap: I want to learn the right skills and find a job.
+- :zap: I want to get the necessary skills and find a job.
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-emilburganov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/emil_burganov)
 
