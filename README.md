@@ -53,7 +53,7 @@ I am a beginner web developer
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg" title="vite" alt="vite" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Light.svg" title="webpack" alt="webpack" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Light.svg" title="vercel" alt="vercel" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Light.svg" title="vercel" alt="vercel" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Light.svg" title="powershell" alt="vercel" width="40" height="40"/> &nbsp
 </div>
 
 ---
