@@ -38,8 +38,8 @@ I am a beginner web developer
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" title="php" alt="php" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg" title="laravel" alt="laravel" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" title="mysql" alt="mysql" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" title="nginx" alt="nginx" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="postman" alt="postman" width="40" height="40"/> &nbsp
-  
 </div>
 
 ---
