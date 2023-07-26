@@ -10,7 +10,7 @@ I am a beginner web developer
 
 - :telescope: Studying web development on my own and in college.
 
-- :seedling: I am currently learning Vue.
+- :seedling: I am currently learning Vue.js.
 
 - :zap: I want to get the necessary skills and find a job.
 
