@@ -50,14 +50,13 @@ I am a beginner web developer
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="git" alt="git" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" title="figma" alt="figma" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg" title="vite" alt="vite" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Light.svg" title="webpack" alt="webpack" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg" title="vite" alt="vite" width="40" height="40"/> &nb
+  <img src="https:/github.com/tandpfun/skillicons/blob/main/icons/Webpack-Light.svg" title="webpack" alt="webpack" width="40" height="40"/> &nbsp
 </div>
 
 ---
 
 ### GitHub Stats:
 <div>
-  <img height="200px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emilburganov&layout=compact&theme=vision-friendly-dark" />
-  <img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=emilburganov&theme=dark&background=000000" alt="webDev's Github stats" />
+  <img height="200px" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emilburganov&layout=compact&theme=vision-friendly-dark" />
 </div>
