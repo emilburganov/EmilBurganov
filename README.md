@@ -27,6 +27,7 @@ I am a beginner web developer
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Light.svg" title="mui" alt="mui" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="javascript" alt="javascript" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Typescript.svg" title="typescript" alt="typescript" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Light.svg" title="vuejs" alt="vuejs" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" title="react" alt="react" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" title="redux" alt="redux" width="40" height="40"/> &nbsp
