@@ -68,6 +68,7 @@ I am a beginner web developer
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" title="vscode" alt="vscode" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Light.svg" title="vim" alt="vim" width="40" height="40"/> &nbsp
 </div>
 
 ### OS:
