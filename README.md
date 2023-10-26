@@ -44,6 +44,11 @@ I am a beginner web developer
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" title="nginx" alt="nginx" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="postman" alt="postman" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" title="wordpress" alt="wordpress" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" title="nodejs" alt="nodejs" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" title="expressjs" alt="expressjs" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" title="firebase" alt="firebase" width="40" height="40"/> &nbsp
+
+  
 </div>
 
 ---
@@ -55,6 +60,20 @@ I am a beginner web developer
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" title="figma" alt="figma" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg" title="vite" alt="vite" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Light.svg" title="webpack" alt="webpack" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Light.svg" title="powershell" alt="powershell" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Light.svg" title="vercel" alt="vercel" width="40" height="40"/> &nbsp
+</div>
+
+### IDE and Code Editors:
+
+<div>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" title="vscode" alt="vscode" width="40" height="40"/> &nbsp
+</div>
+
+### OS:
+
+<div>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" title="linux" alt="linux" width="40" height="40"/> &nbsp
 </div>
 
 ---
