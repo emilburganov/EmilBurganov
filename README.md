@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-I am a beginner web developer
+I am a junior frontend developer
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 - :telescope: Studying web development on my own and in college.
