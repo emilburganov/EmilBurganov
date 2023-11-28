@@ -28,9 +28,7 @@ I am a junior frontend developer
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Light.svg" title="mui" alt="mui" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="javascript" alt="javascript" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="typescript" alt="typescript" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Light.svg" title="vuejs" alt="vuejs" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" title="react" alt="react" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" title="redux" alt="redux" width="40" height="40"/> &nbsp
 </div>
 
 ---
@@ -44,11 +42,8 @@ I am a junior frontend developer
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" title="nginx" alt="nginx" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="postman" alt="postman" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" title="wordpress" alt="wordpress" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" title="nodejs" alt="nodejs" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" title="expressjs" alt="expressjs" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" title="firebase" alt="firebase" width="40" height="40"/> &nbsp
-
-  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="docker" alt="docker" width="40" height="40"/> &nbsp
 </div>
 
 ---
@@ -67,6 +62,7 @@ I am a junior frontend developer
 ### IDE and Code Editors:
 
 <div>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Light.svg" title="idea" alt="idea" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" title="vscode" alt="vscode" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Light.svg" title="vim" alt="vim" width="40" height="40"/> &nbsp
 </div>
