@@ -7,7 +7,7 @@
 I am a junior frontend developer
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
-- :telescope: Studying web development on my own and in college.
+- :telescope: Studying frontend development on my own.
 
 - :seedling: I am currently learning React, TypeScript.
 
