@@ -30,6 +30,7 @@ I am a junior frontend developer
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="javascript" alt="javascript" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="typescript" alt="typescript" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" title="react" alt="react" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" title="redux" alt="redux" width="40" height="40"/> &nbsp
 </div>
 
 ---
