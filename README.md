@@ -2,18 +2,18 @@
 
 ---
 
-### :man_technologist: About me:
+### About me:
 
 I am a junior frontend developer
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
-- :telescope: Studying frontend development on my own.
+- Studying frontend development on my own.
 
-- :seedling: I am currently learning React, TypeScript.
+- I am currently learning React, TypeScript.
 
-- :zap: I want to get the necessary skills and find a job.
+- I want to get the necessary skills and find a job.
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-emilburganov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/emil_burganov)
+- How to contact me: [![Telegram Badge](https://img.shields.io/badge/-emilburganov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/emil_burganov)
 
 ---
 
