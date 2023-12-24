@@ -61,6 +61,16 @@ I am a junior frontend developer
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Light.svg" title="vercel" alt="vercel" width="40" height="40"/> &nbsp
 </div>
 
+---
+
+### Testing:
+
+<div>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" title="jest" alt="jest" width="40" height="40"/> &nbsp
+</div>
+
+---
+
 ### IDE and Code Editors:
 
 <div>
@@ -68,6 +78,8 @@ I am a junior frontend developer
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" title="vscode" alt="vscode" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Light.svg" title="vim" alt="vim" width="40" height="40"/> &nbsp
 </div>
+
+---
 
 ### OS:
 
