@@ -42,7 +42,6 @@ I am a junior frontend developer
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg" title="laravel" alt="laravel" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" title="mysql" alt="mysql" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" title="nginx" alt="nginx" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="postman" alt="postman" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" title="wordpress" alt="wordpress" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" title="firebase" alt="firebase" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="docker" alt="docker" width="40" height="40"/> &nbsp
@@ -66,6 +65,7 @@ I am a junior frontend developer
 ### Testing:
 
 <div>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="postman" alt="postman" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" title="jest" alt="jest" width="40" height="40"/> &nbsp
 </div>
 
