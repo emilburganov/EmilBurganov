@@ -4,7 +4,7 @@
 
 ### About me:
 
-I am a junior frontend developer
+I am a Junior Frontend Developer
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 - Studying frontend development on my own.
