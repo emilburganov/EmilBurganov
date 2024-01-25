@@ -4,14 +4,12 @@
 
 ### About me:
 
-I am a Junior Frontend Developer
+I'm a Junior Backend Developer
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
-- Studying frontend development on my own.
+- Studying Backend Development on my own.
 
-- I am currently learning React, TypeScript.
-
-- I want to get the necessary skills and find a job.
+- I'm currently learning PHP, Laravel.
 
 - How to contact me: [![Telegram Badge](https://img.shields.io/badge/-emilburganov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/emil_burganov)
 
