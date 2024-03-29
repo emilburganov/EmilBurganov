@@ -42,7 +42,7 @@ I'm a Junior Backend Developer
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg" title="laravel" alt="laravel" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" title="mysql" alt="mysql" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" title="postgresql" alt="postgresql" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase.svg" title="firebase" alt="firebase" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Light.svg" title="firebase" alt="firebase" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Light.svg" title="redis" alt="redis" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="docker" alt="docker" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" title="nginx" alt="nginx" width="40" height="40"/> &nbsp  
@@ -69,7 +69,7 @@ I'm a Junior Backend Developer
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" title="bash" alt="bash" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell.svg" title="powershell" alt="powershell" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Light.svg" title="powershell" alt="powershell" width="40" height="40"/> &nbsp
 </div>
 
 ---
@@ -87,7 +87,7 @@ I'm a Junior Backend Developer
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" title="jest" alt="jest" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cypress-Light" title="cypress" alt="cypress" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cypress-Light.svg" title="cypress" alt="cypress" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="postman" alt="postman" width="40" height="40"/> &nbsp
 </div>
 
