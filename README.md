@@ -74,7 +74,7 @@ I'm a Junior Backend Developer
 
 ---
 
-### CLI Tools:
+### OS:
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Light.svg" title="windows" alt="windows" width="40" height="40"/> &nbsp
@@ -88,7 +88,6 @@ I'm a Junior Backend Developer
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" title="jest" alt="jest" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cypress-Light.svg" title="cypress" alt="cypress" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="postman" alt="postman" width="40" height="40"/> &nbsp
 </div>
 
 ---
@@ -97,7 +96,7 @@ I'm a Junior Backend Developer
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/WebStorm-Light.svg" title="webstorm" alt="webstorm" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PhpStorm-Light.svg" title="phpstorm" alt="phpstorm" width="40" height="40"/> &nbspp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PhpStorm-Light.svg" title="phpstorm" alt="phpstorm" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" title="vscode" alt="vscode" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Light.svg" title="vim" alt="vim" width="40" height="40"/> &nbsp
 </div>
