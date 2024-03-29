@@ -9,7 +9,7 @@ I'm a Junior Backend Developer
 
 - Studying Backend Development on my own.
 
-- I'm currently learning PHP, Laravel.
+- I'm currently learning Laravel, Go.
 
 - How to contact me: [![Telegram Badge](https://img.shields.io/badge/-emilburganov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/emil_burganov)
 
@@ -37,15 +37,15 @@ I'm a Junior Backend Developer
 ### Backend:
 
 <div>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" title="go" alt="go" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" title="php" alt="php" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg" title="laravel" alt="laravel" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" title="mysql" alt="mysql" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" title="postgresql" alt="postgresql" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase.svg" title="firebase" alt="firebase" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Light.svg" title="redis" alt="redis" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" title="firebase" alt="firebase" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" title="nginx" alt="nginx" width="40" height="40"/> &nbsp  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="docker" alt="docker" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" title="wordpress" alt="wordpress" width="40" height="40"/> &nbsp
-
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" title="nginx" alt="nginx" width="40" height="40"/> &nbsp  
 </div>
 
 ---
@@ -54,11 +54,31 @@ I'm a Junior Backend Developer
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="git" alt="git" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" title="figma" alt="figma" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Light.svg" title="github-actions" alt="github-actions" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg" title="vite" alt="vite" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Light.svg" title="webpack" alt="webpack" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Light.svg" title="powershell" alt="powershell" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Light.svg" title="npm" alt="npm" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Yarn-Light.svg" title="yarn" alt="yarn" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" title="figma" alt="figma" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Light.svg" title="vercel" alt="vercel" width="40" height="40"/> &nbsp
+</div>
+
+---
+
+### CLI Tools:
+
+<div>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" title="bash" alt="bash" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell.svg" title="powershell" alt="powershell" width="40" height="40"/> &nbsp
+</div>
+
+---
+
+### CLI Tools:
+
+<div>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Light.svg" title="windows" alt="windows" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" title="linux" alt="linux" width="40" height="40"/> &nbsp
 </div>
 
 ---
@@ -66,8 +86,9 @@ I'm a Junior Backend Developer
 ### Testing:
 
 <div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="postman" alt="postman" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" title="jest" alt="jest" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cypress-Light" title="cypress" alt="cypress" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="postman" alt="postman" width="40" height="40"/> &nbsp
 </div>
 
 ---
@@ -75,17 +96,10 @@ I'm a Junior Backend Developer
 ### IDE and Code Editors:
 
 <div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Light.svg" title="idea" alt="idea" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/WebStorm-Light.svg" title="webstorm" alt="webstorm" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PhpStorm-Light.svg" title="phpstorm" alt="phpstorm" width="40" height="40"/> &nbspp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" title="vscode" alt="vscode" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Light.svg" title="vim" alt="vim" width="40" height="40"/> &nbsp
-</div>
-
----
-
-### OS:
-
-<div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" title="linux" alt="linux" width="40" height="40"/> &nbsp
 </div>
 
 ---
