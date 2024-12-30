@@ -4,12 +4,12 @@
 
 ### About me:
 
-I'm a Junior Backend Developer
+I'm a PHP Backend Developer
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 - Studying Backend Development on my own.
 
-- I'm currently learning Go.
+- I'm currently learning Laravel.
 
 - How to contact me: [![Telegram Badge](https://img.shields.io/badge/-emilburganov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/emil_burganov)
 
@@ -34,7 +34,6 @@ I'm a Junior Backend Developer
 ### Backend:
 
 <div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" title="go" alt="go" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" title="php" alt="php" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg" title="laravel" alt="laravel" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" title="mysql" alt="mysql" width="40" height="40"/> &nbsp
@@ -42,7 +41,6 @@ I'm a Junior Backend Developer
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Light.svg" title="redis" alt="redis" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="docker" alt="docker" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" title="nginx" alt="nginx" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Light.svg" title="rabbitmq" alt="rabbitmq" width="40" height="40"/> &nbsp  
 </div>
 
 ---
@@ -51,7 +49,6 @@ I'm a Junior Backend Developer
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="git" alt="git" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Light.svg" title="github-actions" alt="github-actions" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg" title="vite" alt="vite" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Light.svg" title="webpack" alt="webpack" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Light.svg" title="npm" alt="npm" width="40" height="40"/> &nbsp
